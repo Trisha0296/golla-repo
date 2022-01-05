@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.top-banar{
+    background-image: url(imags/background\ one.png);
+    background-repeat: no-repeat;
+}
+ h1{
+font-size: 50px;
+ }
+
+.orange-coler{
+  color: chocolate;  
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.lorem-text{
+    font-size: 25px;
+}
+.link-tag{
+    text-decoration: none;
+    background-color: rgb(3, 100, 129);
+    border-radius: 40%;
+    padding: 10px 40px;
+    color: papayawhip;
+    font-weight: 700;
+}
+
+.first{
+    width: 50%;
+    padding-left: 0px;
+    margin-top: 5%;
+    margin-left: 15%;
+
+}
+.first img{
+    width: 470px;
+    height: 450px;
+    background-color: rgb(3, 100, 129);
+    border-radius: 100%;
+}
+
+.Secand{
+    width: 470px;
+    height: 450px;
+    background-color: violet;
+    border-radius: 1000px;
+     margin-left: 5%;
+}
+.baby-two{
+    margin-left: 20%;
+}
+
+.secand-lorem{
+    color: rgb(0, 0, 0);
+   
+    font-weight: 700;
+}
+
+.twooooo{
+    background-image: url(imags/kisspng-vector-graphics-desktop-wallpaper-portable-network-5d1443a59527f3.464310641561609125611-removebg-preview.png);
+    background-repeat: no-repeat;
+}
+.link-tag-tooo{
+    text-decoration: none;
+    background-color: rgb(232, 6, 240);
+    border-radius: 40%;
+    padding: 10px 40px;
+    color: papayawhip;
+    font-weight: 700;
+}
+.dolor{
+    color: saddlebrown;
+}
+.majha{
+    margin-left: 250px;
+    margin-top: 150px;
+    font-size: 25px;
+   
+}
+.Experiance-area{
+    display: flex;
+    
+}
